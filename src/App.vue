@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-    Hello
+    <div class="search-box">
+      <input type="text" class="search-bar" placeholder="Zoeken...">
+
+    </div>
   </div>
 </template>
 <script>
