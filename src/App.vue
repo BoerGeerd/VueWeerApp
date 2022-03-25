@@ -5,14 +5,15 @@
       <input type="text" class="search-bar" placeholder="Zoeken...">
 
     </div>
-    </main>
-  </div>
-  <div class="weather-wrap">
+    <div class="weather-wrap">
     <div class="location-box">
       <div class="location">Tiel, Nederland</div>
       <div class="date">vrijdag 25 maart 2022</div>
     </div>
   </div>
+    </main>
+  </div>
+  
 </template>
 <script>
 export default {
