@@ -48,7 +48,7 @@ main{
 }
 .search-box {
   width: 100%;
-  margin-bottom: 29px;
+  margin-bottom: 30px;
 }
 .search-box .search-bar {
   display: block;
