@@ -11,6 +11,10 @@
       <div class="date">vrijdag 25 maart 2022</div>
     </div>
   </div>
+  <div class="weather-box">
+    <div class="temp">15C</div>
+    <div class="weather">Spring</div>
+  </div>
     </main>
   </div>
   
