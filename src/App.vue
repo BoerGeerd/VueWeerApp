@@ -94,6 +94,13 @@ body{
     font-family: 'montserrat', sans-serif;
 
 }
+.weather-wrap{
+  text-align: center;
+  font-family: cursive;
+  font-size: 50px;
+  font-weight: 300;
+  color: whitesmoke;
+}
 #app{
   background-image:url('./assets/summerbackground.jpg');
   background-size: cover;
